@@ -47,6 +47,7 @@
                 <li><strong>Upload Bypass</strong>: Find a way to upload a file despite the restrictions.</li>
                 <li><strong>Shell Upload</strong>: Use the uploaded file to execute commands on the server.</li>
                 <li><strong>Privilege Escalation</strong>: Escalate your privileges to access the <code class="bg-gray-700 px-1 rounded">flag.txt</code> file.</li>
+                            <li><strong>Note</strong>: No automated tools,brute force,dictionary attack.total manual base testing.</li>
             </ol>
             <form action="upload.php" method="POST" enctype="multipart/form-data">
                 <input type="file" name="file" accept=".jpg,.png">
